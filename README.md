@@ -163,3 +163,7 @@ axios.defaults.headers['Authorization'] = AUTH_TOKEN;
 // request.headers.common['Accept'] = `application/json`;
 request.headers['Accept'] = `application/json`;
 ```
+
+---
+
+_Note: I have developed this project as part of React 18 Tutorial and Projects Course (2023) taught by John Smilga._
