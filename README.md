@@ -1,4 +1,4 @@
-# Axios Tutorial
+# Axios
 
 #### Docs
 
